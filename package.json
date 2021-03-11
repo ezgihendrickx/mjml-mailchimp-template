@@ -1,0 +1,11 @@
+{
+  "name": "mjml-template",
+  "scripts": {
+    "build": "mjml index.mjml -o index.html"
+  },
+  "dependencies": {
+    "mjml": "4.1.1",
+    "mjml-cli": "4.6.1",
+    "mjml-mailchimp": "0.0.5"
+  }
+}
